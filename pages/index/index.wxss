@@ -1,0 +1,13 @@
+swiper{
+  height: 400rpx;
+  width: 100%;
+}
+swiper  image{
+  height: 100%;
+  width: 100%;
+}
+.btn{
+  height: 50rpx;
+  font-size: 30rpx;
+   line-height: 50rpx;
+}
